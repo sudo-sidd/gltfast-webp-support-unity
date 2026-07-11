@@ -15,7 +15,7 @@ A seamless integration for Unity that allows you to import GLB files containing 
 
 1.  Open the Unity Package Manager (`Window` > `Package Manager`).
 2.  Click the `+` button and select `Add package from git URL...`.
-3.  Enter `https://github.com/sudo-sidd/gltfast-webp-support-unity`.
+3.  Enter `https://github.com/sudo-sidd/gltfast-webp-support-unity.git?path=/com.sudosidd.glb-webp-import`.
 
 ### Manual Installation
 
