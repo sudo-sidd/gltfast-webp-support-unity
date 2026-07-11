@@ -1,0 +1,21 @@
+{
+    "name": "sudosidd.GlbWebpImport.Editor",
+    "rootNamespace": "",
+    "references": [
+        "glTFast",
+        "glTFast.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "SkiaSharp.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
